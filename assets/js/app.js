@@ -147,4 +147,4 @@ function yScale(censusData, chosenYaxis) {
 
 }
 
-//ya
+
